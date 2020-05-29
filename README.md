@@ -1,10 +1,10 @@
-![Poster_lockr](https://user-images.githubusercontent.com/6263626/82375038-3426c680-99dd-11ea-8830-026056184087.png)
+![Poster_lockr](https://user-images.githubusercontent.com/6263626/83301465-eff2ad80-a1b6-11ea-9246-dca81c6751f1.png)
 
-## Lockr ##
-Via this substratum theme you can hide the shortcuts, lock icon, carrier label, statusbar icons and minimize the fingerprint icon to a small dot.
-> Note: The left and right shortcuts still work if you swipe, they are just hidden.
+## AOD ClockStyles ##
+Via this substratum theme you can change the look of the new Beta14 digital clock 2 and typographic clock, which are my favorite.
+> Note: This will only work if you are on Beta14 or higher since these clocks don't exist in a lower build.
 
-*Supported Device/OS: OnePlus 7 Pro - Oxygen OS 10*
+*Supported Device/OS: OnePlus 7 Pro - Oxygen OS 10 Beta14+ *
 
 
 **How to apply overlays:**
@@ -14,4 +14,4 @@ Via this substratum theme you can hide the shortcuts, lock icon, carrier label, 
 4. Substratum > Manager Tab
 5. Select the overlay and swap overlay state
 
-[Download](https://github.com/alienator88/Lockr/releases)
+[Download](https://github.com/alienator88/AOD_ClockStylr/releases)
